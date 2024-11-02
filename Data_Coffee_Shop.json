@@ -1,5 +1,4 @@
 CoffeeList = [
-    [
     {
         "id": "1",
         "nama": "Caffè Latte",
@@ -60,6 +59,4 @@ CoffeeList = [
         "deskripsi": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that will leave you wanting more.",
         "foto": "./images/mocha_frappuccino_poster.jpg"
     }
-]
-
 ];
