@@ -1,4 +1,4 @@
-CoffeeList = [
+CoffeeList : [
     {
         "id": "1",
         "nama": "Caffè Latte",
